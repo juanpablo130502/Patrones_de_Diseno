@@ -1,4 +1,6 @@
 # Patrones_de_Diseno
-##Diseño y Arquitectura de Software
-INTEGRANTES: 
+## **_Diseño y Arquitectura de Software_**
+
+**_INTEGRANTES:_**
+
 Sebastian Viracacha, Juan Esteban Villalobos, Juan Pablo Mateus
