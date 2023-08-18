@@ -3,4 +3,6 @@
 
 **_INTEGRANTES:_**
 
-Sebastian Viracacha, Juan Esteban Villalobos, Juan Pablo Mateus
+* Sebastian Viracacha
+* Juan Esteban Villalobos
+* Juan Pablo Mateus
